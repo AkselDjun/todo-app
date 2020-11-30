@@ -162,6 +162,7 @@ export default class App extends Component {
                 />
                 <ItemAddForm
                     onItemAdded={this.addItem}
+
                 />
             </div>
         );
